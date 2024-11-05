@@ -10,6 +10,19 @@ sub topics:
 3. other diseases and heart disease
 4. life expectencies and heart disease
 
+We each have by Sunday:
+1. 2 good datasets or 1 amazingly huge one
+2. clean preprocess data
+3. start on clustering methods
+
+Sunday: 
+1. reevaluate goals
+2. compare and contrast findings
+3. optimize clustering
+
+For Friday:
+1. create data visualization
+
 How to deal with Null data:
 
 1.  Ignore the tuple: This is usually done when the class label is missing (assuming the mining task 
