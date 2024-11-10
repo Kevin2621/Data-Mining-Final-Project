@@ -7,8 +7,11 @@ Big Topic: Heart Disease diagnoses and related correlation
 sub topics:
 1. food and heart disease
 2. location and heart disease
-3. other diseases and heart disease
-4. life expectencies and heart disease
+   - Heart Disease by Location 2015-2017 (https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/mfvi-hkb9)
+   - Heart Disease by Location 2017-2019 (https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/s6p7-fvbw)
+   - Heart Disease by Location 2019-2021 (https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/55yu-xksw)
+4. other diseases and heart disease
+5. life expectencies and heart disease
 
 We each have by Sunday:
 1. 2 good datasets or 1 amazingly huge one
